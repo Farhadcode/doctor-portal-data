@@ -1,0 +1,148 @@
+[
+    
+    {
+        "id": 1,
+        "name": "Salmon Grapefruit and Lentil Salad",
+        "price": 9.99,
+         "category":"dinner" ,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/zfcTGmS/dinner1.png"
+    },
+    {
+        "id": 2,
+        "name": "Lemony Salmon Piccata",
+        "price": 10.99,
+         "category":"dinner" ,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": " https://i.ibb.co/3zz60Fy/dinner2.png"
+    },
+    {
+        "id": 3,
+        "name": "Pork Tenderloin With Quinoa Pilaf",
+        "price": 12.99,
+         "category":"dinner" ,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": " https://i.ibb.co/pRdwSVN/dinner3.png"
+    },
+    {
+        "id": 4,
+        "name": "French fries with cheese",
+        "price": 8.99,
+         "category":"dinner" ,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/Gv3XcfR/dinner4.png"
+    },
+    {
+        "id": 5,
+        "name": "Garlic Butter Baked Salmon",
+        "price": 6.99,
+         "category":"dinner" ,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": " https://i.ibb.co/1vVSyM6/dinner5.png"
+    },
+    {
+        "id": 6,
+        "name": "Baked Chiken",
+        "price": 9.99,
+         "category":"dinner" ,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/9HCsMyW/dinner6.png"
+    },
+    {
+        "id": 7,
+        "name": "Health Meal  Plan",
+        "price": 23.99,
+         "category":"lunch" ,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": " https://i.ibb.co/bd6S4QG/lunch1.png"
+    },
+     
+    {
+        "id": 8,
+        "name": "Fried Chicken Bento",
+        "price": 9.99,
+         "category":"lunch" ,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/sC7Zs0W/lunch2.png"
+    },
+    {
+        "id": 9,
+        "name": "Tarragon Rubben Salmon",
+        "price": 6.99,
+         "category":"lunch" ,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/KwqPHNM/lunch3.png"
+    },
+    {
+        "id": 10,
+        "name": "Indian Lunch",
+        "price": 8.99,
+         "category":"lunch" ,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/N95sj6p/lunch4.png"
+    },
+    {
+        "id": 11,
+        "name": "Beef Steak",
+        "price": 15.99,
+         "category":"lunch" ,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/9wPM82B/lunch5.png"
+    },
+    {
+        "id": 12,
+        "name": "Honey-Soy Glazed Salmon With Peppers",
+        "price": 7.99,
+         "category":"lunch" ,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/Hdn9Bpm/lunch6.png"
+    },
+    {
+        "id": 13,
+        "name": "Bagel & Cream Cheese",
+        "price": 6.99,
+         "category":"breakfast" ,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": " https://i.ibb.co/jb0YWfx/breakfast1.png"
+    },
+    {
+        "id": 14,
+        "name": "Breakfast sandwich",
+        "price": 9.99,
+         "category":"breakfast" ,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/swZVHgW/breakfast2.png"
+    },
+    {
+        "id": 15,
+        "name": "Baked Chiken",
+        "price":10.99,
+         "category":"breakfast" ,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/fdPzbWY/breakfast3.png"
+    },
+    {
+        "id": 16,
+        "name": "Eggs Benedict",
+        "price": 8.99,
+         "category":"breakfast" ,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/tcpdkx6/breakfast4.png"
+    },
+    {
+        "id": 17,
+        "name": "Toast Croissant Fried Egg ",
+        "price": 19.99,
+         "category":"breakfast" ,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/ZgKtS3q/breakfast5.png"
+    },
+    {
+        "id": 18,
+        "name": "Full Breakfast Fried Egg Toast Brunch",
+        "price": 3.99,
+         "category":"breakfast" ,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/dBBMSGS/breakfast6.png"
+    }
+]
