@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "works": "Software Development",
+    "description": "Full-cycle software development with consistent processes and modern technologies.",
+    "icon": ""
+  },
+  {
+    "id": 2,
+    "works": "Mobile App Development",
+    "description": "Mobile applications developments with excellent performance and great user experiences.",
+    "icon": ""
+  },
+  {
+    "id": 3,
+    "works": "SAAS Development",
+    "description": "Experience in SaaS development. Specialized MVP development service to validate your ideas.",
+    "icon": ""
+  },
+  {
+    "id": 4,
+    "works": "UX/UI Design",
+    "description": "Extensive experience in professional UX/UI design to craft modern applications.",
+    "icon": ""
+  },
+  {
+    "id": 5,
+    "works": "Quality Assurance",
+    "description": "Advanced software testing services with quality and reliability for any application.",
+    "icon": ""
+  },
+  {
+    "id": 6,
+    "works": "Business Analysis",
+    "description": "Bridging the gap between IT and the business using analysis and years of industry experience.",
+    "icon": ""
+  }
+]
